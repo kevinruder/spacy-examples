@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/0e2fd14e-9749-4c36-8497-2066fb7c0ef2/resourceGroups/appsvc_rg_linux_centralus/providers/Microsoft.Web/sites/anonymazing",
+    "appService.deploySubpath": ""
+}
